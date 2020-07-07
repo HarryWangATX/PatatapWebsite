@@ -13,7 +13,7 @@ Start Installing!
 4. Enjoy!
 ## Option 2
 1. Open up Notepad(Windows) or Text Edit(MacOS)
-2. Paste the file "PatatapHTML" or "ToDoListCSS" into the editor.
+2. Paste the file "PatatapHTML" or "PatatapCSS" into the editor.
 3. Save that file as "PatatapHTML(file type(HTML, CSS) in ***ALL CAPS***)".(file type in ***LOWERCASE***) (Note: The ".html" / ".css" is ***VERY IMPORTANT***)
 4. Repeat above steps for the remaining file. (Caution: Make sure the .something corresponds with the file type. ***".html" for HTML file ".css" for CSS file***)
 5. Find the PatatapHTML.html file in File Explorer(Windows) or Finder(MacOS)
